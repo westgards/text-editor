@@ -23,7 +23,7 @@ This is a text editor that runs in the browser. The app is a single-page applica
 `npm run start:dev`
 
 This app is deployed with Heroku!
-[Heroku Link]()
+[Heroku Link](https://gentle-shore-49089.herokuapp.com/)
 
 ![JATE](/client/src/images/j.a.t.e.png)
 
